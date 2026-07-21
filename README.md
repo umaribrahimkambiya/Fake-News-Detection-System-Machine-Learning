@@ -1,1 +1,1 @@
-# Fake-News-Detection-System-Machome-Learning
+# Fake-News-Detection-System-Machine-Learning
